@@ -33,7 +33,7 @@
 <!-- Skills -->
 <p align="center" >
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,ts,html,css,php,java,c,cs,python,nodejs,laravel,dotnet,react,nextjs,vite,django,jquery,mysql,postgres,firebase,supabase,tailwind,bootstrap,figma,git,github,postman,vercel,kali,powershell,notion,npm,vscode&theme=light&perline=14"/>
+    <img src="https://skillicons.dev/icons?i=js,ts,html,css,php,java,c,cs,python,nodejs,laravel,dotnet,react,nextjs,vite,django,jquery,mysql,postgres,firebase,supabase,tailwind,bootstrap,figma,git,github,postman,vercel,powershell,notion,npm,vscode&theme=light&perline=14"/>
   </a>
 </p>
 
